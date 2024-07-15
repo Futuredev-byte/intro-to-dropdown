@@ -1,0 +1,23 @@
+.bottom-logos{
+    margin-top: 200px;
+}
+
+/* .header, .para{
+ margin-top: 50px;
+} */
+
+
+
+
+@media(max-width: 768px){
+    .first-half img{
+        display: none !important; 
+    }
+    .mobile-pic{
+        margin-top: 60px;
+    }
+    
+    .bottom-logos{
+        margin: 0;
+    }
+}
